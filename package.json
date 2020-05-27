@@ -1,0 +1,23 @@
+{
+  "name": "node-cluster-example",
+  "version": "1.0.0",
+  "description": "This project is intended to show how to take advantage of multicore CPUs with  NodeJS",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/cluster.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaswilliameufrasio/node-cluster-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucaswilliameufrasio/node-cluster-example/issues"
+  },
+  "homepage": "https://github.com/lucaswilliameufrasio/node-cluster-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
