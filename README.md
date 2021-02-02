@@ -17,19 +17,13 @@ Observation: If you want to use worker threads on your project, search about it 
 ## Content
 
 
-- [Installation](#installation)
+- [Clone](#clone)
+- [Setup](#setup)
 - [Usage](#usage)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
+- [References](#references)
 
 
 ---
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ### Clone
 
