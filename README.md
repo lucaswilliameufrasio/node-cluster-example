@@ -1,15 +1,16 @@
 # Clustering with Node
 
+![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
+
+Observation: If you want to use worker threads on your project, search about it before, it's more complicated than appear to be, this repository is just an example of how to use the package.
+
 > Fork of multiple process is needed to take advantage of multicore CPUs on NodeJS, because it is single-threaded.
 
 > nodejs cluster, nodejs multicore,
 
-![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
 
 
-![Showing the workers being created as needed](https://raw.githubusercontent.com/lucaswilliameufrasio/node-cluster-example/assets/node-workers.gif)
-
-- Every time i refreshed the page, a cluster was created because of the heavy task created to make CPU busy.
+![Workers created](https://user-images.githubusercontent.com/34021576/106593296-68242680-652f-11eb-90bd-db7e5427d413.png)
 
 ---
 
