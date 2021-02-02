@@ -4,7 +4,7 @@
 
 Observation: If you want to use worker threads on your project, search about it before, it's more complicated than appears to be, this repository is just an example of how to use the package.
 
-> The intention to fork of multiple processes is to make able to take advantage of multicore CPUs on Node JS.
+> The intention to fork multiple processes is to make able to take advantage of multicore CPUs on Node JS.
 
 > nodejs cluster, nodejs multicore,
 
