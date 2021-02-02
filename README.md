@@ -2,7 +2,7 @@
 
 ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
 
-Observation: If you want to use worker threads on your project, search about it before, it's more complicated than appear to be, this repository is just an example of how to use the package.
+Observation: If you want to use worker threads on your project, search about it before, it's more complicated than appears to be, this repository is just an example of how to use the package.
 
 > Fork of multiple process is needed to take advantage of multicore CPUs on NodeJS, because it is single-threaded.
 
